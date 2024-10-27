@@ -1,1 +1,2 @@
-# 202444
+# Big Data – NoSql Workshop
+>Coach: Michael Lindner
